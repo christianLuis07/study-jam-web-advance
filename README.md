@@ -9,6 +9,10 @@ PPT PERTEMUAN 2<br>
 pada pertemuan 2 membahas mengenai lanjutan oop itu sendiri<br>
 https://www.canva.com/design/DAGzJGB146s/UaZhRsW7rDKXqvMabYH0tQ/edit
 
+PPT PERTEMUAN3<br>
+pada pertemuan 3 membahas mengenai apa itu mvc dan membuat project mvc untuk foldernya yaitu crudSederhana<br>
+(https://www.canva.com/design/DAGzy_1Ce8s/-gtOxy9SUfSIInoe2yAlKw/edit?utm_content=DAGzy_1Ce8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 untuk menjalankannya bisa memakai web server seperti 
 
 laragon<br>
